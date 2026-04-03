@@ -1,0 +1,17 @@
+# Phase 1 — Rule-based chatbot
+flask>=3.0.0
+
+# Phase 2 — Pattern matching chatbot
+nltk>=3.8.0
+
+# Phase 3 — ML-based chatbot
+scikit-learn>=1.4.0
+numpy>=1.26.0
+
+# Phase 4 — LLM-powered chatbot
+anthropic>=0.25.0
+python-dotenv>=1.0.0
+
+# Phase 5 — RAG chatbot
+chromadb>=0.4.0
+sentence-transformers>=2.6.0
